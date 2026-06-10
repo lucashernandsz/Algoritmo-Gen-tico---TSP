@@ -1,0 +1,5 @@
+instancia,variante,media,desvio_padrao,melhor,otimo,gap_medio_%,custo_medio_fmt
+burma14,V1_OX_swap,3380.90,92.44,3323.00,3323,1.74,3380.90 ± 92.44
+burma14,V2_OX_inv,3330.40,15.25,3323.00,3323,0.22,3330.40 ± 15.25
+burma14,V3_PMX_inv,3329.50,6.85,3323.00,3323,0.20,3329.50 ± 6.85
+burma14,V4_memetic,3323.00,0.00,3323.00,3323,0.00,3323.00 ± 0.00
